@@ -1,0 +1,17 @@
+"display_order","metric","metric_value"
+1,Total transaction lines,"535187"
+2,Date range,"2010-12-01 to 2011-12-09"
+3,Unique invoices,"24446"
+4,Identified customers,"4338"
+5,Gross revenue,"10642110.80"
+6,Completed orders,"19960"
+7,Units sold,"5572420"
+8,Average order value,"533.17"
+9,Cancellation rate,"15.69%"
+10,Cancelled or returned value,"893979.73"
+11,Repeat customers,"2845"
+12,Repeat customer rate,"65.58%"
+13,Highest-revenue month,"2011-11 — 1503866.78"
+14,Highest-revenue country,United Kingdom — 9001744.09
+15,Highest-revenue product,DOTCOM POSTAGE — 206248.77
+16,Highest-value customer,"14646 — 280206.02"

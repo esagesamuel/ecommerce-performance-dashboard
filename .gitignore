@@ -1,0 +1,26 @@
+# Large source and processed datasets
+data/raw/*
+data/processed/*
+
+# Microsoft Office temporary files
+~$*
+*.tmp
+*.temp
+*.bak
+
+# Power BI temporary and local backup files
+*.pbix.autosave
+*.pbix.bak
+
+# Database and editor workspace metadata
+.dbeaver/
+.metadata/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
